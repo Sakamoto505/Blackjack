@@ -1,4 +1,4 @@
 # BJ
 
 Для запуска игры ввести команду 
-ruby main.rb
+ruby menu.rb
